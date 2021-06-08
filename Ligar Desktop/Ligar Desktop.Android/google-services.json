@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955806621999",
+    "firebase_url": "https://ligarpc-35ba3-default-rtdb.firebaseio.com",
+    "project_id": "ligarpc-35ba3",
+    "storage_bucket": "ligarpc-35ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955806621999:android:b365b00f4de407140f01da",
+        "android_client_info": {
+          "package_name": "Ligar.PC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955806621999-m50pf8lm2bjgeev3cnqckololsghd0j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhCEDhaseJsy1jlrOAf2dwX2apPhhiIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955806621999-m50pf8lm2bjgeev3cnqckololsghd0j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

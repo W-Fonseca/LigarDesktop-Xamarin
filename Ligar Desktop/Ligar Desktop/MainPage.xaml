@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ligar_Desktop.MainPage">
+
+    <Grid>
+
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                <GradientStop Color="#FFFF3200" Offset="0.1"/>
+                <GradientStop Color="#600DF7" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <StackLayout>
+        <StackLayout HorizontalOptions="Center" Orientation="Vertical">
+            <Label Padding="10" Text="Clique para Ligar o Desktop" HorizontalTextAlignment="Center" FontAttributes="Italic" TextColor="#FFFFFF" FontSize="Title"/>
+
+            <Button x:Name="btnLigar" WidthRequest="200" Text="Ligar" Clicked="btnLigar_Clicked"/>
+                <Button x:Name="btnDesligar" WidthRequest="200" Text="Desligar" Clicked="btnDesligar_Clicked"/>
+
+
+                <ListView x:Name="lvtexto">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Power}" TextColor="Black"></TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
+        </Grid>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\bin\Release\netstandard2.0\Ligar Desktop.deps.json
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\bin\Release\netstandard2.0\Ligar Desktop.dll
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\bin\Release\netstandard2.0\ref\Ligar Desktop.dll
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\bin\Release\netstandard2.0\Ligar Desktop.pdb
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\Ligar Desktop.csprojAssemblyReference.cache
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\Ligar Desktop.AssemblyInfoInputs.cache
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\Ligar Desktop.AssemblyInfo.cs
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\Ligar Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\Ligar Desktop.dll
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\ref\Ligar Desktop.dll
+C:\Users\Juva\source\repos\Ligar Desktop\Ligar Desktop\Ligar Desktop\obj\Release\netstandard2.0\Ligar Desktop.pdb
